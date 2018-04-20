@@ -25,8 +25,7 @@ Git is the local repository where user can share code with each other and Github
 How do you commit a file to the staging area
 
 
-```git add
- <filename>```
+```git commit -m "message"```
 
 
 
